@@ -3,7 +3,7 @@
 AI EventPilot helps you plan weddings, birthday parties, college events, community events, anniversaries and other celebrations.
 You answer a short form and get a personalised plan: concept and theme, decoration, venue and food ideas, a budget in rupees,
 a dated preparation timeline and a vendor checklist. Everything is saved in your own browser.
-
+ Live Demo :https://ai-eventpilot.vercel.app
 ## Main features
 
 - **Dashboard** with event categories, saved events, upcoming dates, overall progress and a friendly first-time empty state.
