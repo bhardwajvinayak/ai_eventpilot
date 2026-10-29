@@ -1,0 +1,18 @@
+# secrets
+.env
+.env.local
+.env.*.local
+.env.example
+
+# dependencies and build output
+node_modules
+.next
+out
+build
+dist
+coverage
+*.tsbuildinfo
+
+# misc
+.DS_Store
+npm-debug.log*
